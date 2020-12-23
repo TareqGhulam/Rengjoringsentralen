@@ -1,0 +1,26 @@
+{
+    "home":{
+        "title":"Rengjøring som fryder",
+        "getQuote":"(knapp)Få pristilbud",
+        "callUs":"Ring oss",
+        "services":{
+            "dayCare":"",
+            "dayCareDes":"",
+            "home":"Bolig eller leilighet daglig renhold",
+            "homeDes":"Kom til et rent hjem hvor du kan nyte solen gjennom vinduene mens du gjør hva du har drømt om i hele dag.",
+            "office":"",
+            "officeDes":"",
+            "construction":"",
+            "constructionDes":"",
+            "carpet":"",
+            "carpetDes":"",
+            "movein":"",
+            "moveinDes":"",
+            "airbnb":"",
+            "airbnbDes":"",
+            "infection ":"",
+            "infection":""
+        }
+    }
+    
+}

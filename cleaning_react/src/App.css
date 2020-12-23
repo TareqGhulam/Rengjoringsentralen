@@ -1,0 +1,44 @@
+.App {
+  /* top: 0; */
+
+  text-align: center;
+  width: 100%;
+  height: 100vh;
+  background-color: #ffffff;
+}
+
+p{
+  font-size: 18px;
+  text-align: left;
+  /* line-height: 150%; */
+  letter-spacing: 0.0625em;
+  line-height: 150%;
+  hyphens: none
+  
+}
+
+h6{
+  font-size: 30px;
+  text-align: left;
+  font-weight: bold;
+  /* line-height: 150%; */
+  letter-spacing: 0.0625em;
+  line-height: 150%;
+  hyphens: none
+}
+
+.typography_h6_bold{
+  font-size: 20px;
+  text-align: left;
+  font-weight: bold;
+  /* line-height: 150%; */
+  letter-spacing: 0.0625em;
+  /* line-height: 150%; */
+  hyphens: none
+}
+
+
+a{
+  text-decoration: none;
+}
+

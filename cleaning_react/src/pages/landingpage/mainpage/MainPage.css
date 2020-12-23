@@ -1,0 +1,46 @@
+.TopPersonImage {
+    width: 90%;
+    height: auto;
+    
+}
+
+.Left_Top_Grid{
+    width: 100%;
+    text-align: left;
+}
+
+.Why_Timeline_1_text_1{
+    position: absolute;
+    top: 15vh;
+    /* left: 2vw; */
+    font-size:2vw;
+    font-weight: bolder;
+}
+.Why_Timeline_1_text_2{
+    position: absolute;
+    top: 22vh;
+    left: 0vw;
+    font-size:1vw;
+}
+
+.ServicessImg{
+    height: 150px;
+    padding-bottom: 10px;
+}
+
+.ServicesTitle{
+    height: 100px;
+    font-weight: bold;
+    padding-bottom: 10px;
+
+    /* text-align: justify; */
+    /* letter-spacing: 1px; */
+}
+
+.ServicesText{
+    min-height: 120px;
+    max-height: auto ;
+    /* text-align:left;
+    letter-spacing: 1px; */
+    
+}

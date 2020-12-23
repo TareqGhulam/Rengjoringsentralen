@@ -1,0 +1,59 @@
+.NavigationLandingPage{
+    
+    height: 100%;
+    /* color: rgb(58, 58, 58); */
+
+
+    text-decoration: none;
+    display: flex;
+    flex-flow: initial;
+    justify-content: center;
+    align-items: center;
+}
+.PhoneNumber{
+    top: 20px;
+    /* height: 100%; */
+    padding-left: 50px;
+    padding-top: 10px;
+    /* color: rgb(58, 58, 58); */
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.NavigationLandingPage li{
+    list-style: none;
+    padding-right: 20px;
+}
+.NavigationLandingPage a{
+    font-size: 17px;
+    color: rgb(173, 173, 173);
+    height: 100%;
+    padding-bottom: 17px;
+    text-decoration: none;
+}
+.NavigationLandingPage a:hover,
+.NavigationLandingPage a:active,
+.NavigationLandingPage a.active 
+{
+    /* color: rgb(162, 85, 192); */
+    height: 100%;
+    color: rgb(78, 78, 78);
+    font-weight: bolder;
+    
+}
+
+@media (max-width : 500px){
+    .NavigationLandingPage{
+    
+        height: 100%;
+        /* color: rgb(58, 58, 58); */
+        text-decoration: none;
+        display: flex;
+        flex-flow: initial;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 20px;
+    }
+    
+}

@@ -1,0 +1,178 @@
+.Quote_service{
+    width: 100%;
+    min-height: 100vh;
+    max-height: max-content;
+    background-color: #D4DFFF;
+
+    padding: 50px;
+    text-align: center;
+}
+
+.Quote_service_container{
+    background-color: rgb(255, 255, 255);
+    width: 70%;
+    margin-left: 15%;
+    border-radius: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.Quote_service_container_title{
+    font-style: normal;
+    font-size: 30px;
+    font-weight: bold;
+    color: #0051AA;
+}
+
+.Quote_service button{
+    padding: 10px 0px;
+    width: 100px;
+}
+.Quote_service_text{
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 0.0625em;
+    line-height: 150%;
+}
+.Quote_service_title{
+    font-size: 25px;
+    font-weight: bold;
+    /* letter-spacing: 0.0625em; */
+    line-height: 150%;
+    color:#0051AA
+}
+.Quote_service_container_papper
+{
+    width: 80%;
+    margin-left: 10%;
+
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 20px;
+    background-color: #D4DFFF;
+    border-radius: 10px;
+}
+
+.Quote_service_container_papper:hover
+{
+    cursor: pointer;
+
+    /* border-radius: 10px; */
+    /* background-color: #D4DFFF; */
+    border: 10px solid #0051AA;
+    padding:0px;
+}
+.Quote_service_container_div_active
+{
+    width: 80%;
+    margin-left: 10%;
+    text-align: center;
+    cursor: pointer;
+    /* padding: 10px; */
+    margin-bottom: 20px;
+    background-color: #D4DFFF;
+    border: 10px solid #0051AA;
+    padding:0px;
+    border-radius: 10px;
+
+}
+a{
+    text-decoration: none;
+}
+
+.btn_next_prev{
+    width: 60px;
+}
+
+
+.quote_progress{
+    width:100%;
+    /* margin-left: 5%; */
+    height:40px;
+    background-color: #D4DFFF ;
+    border-radius:10px
+}
+
+.quote_progress_done{
+    /* margin-left: 5%; */
+    height:40px;
+    background-color: #325FFF ;
+    border-radius:10px
+}
+
+.quote_progress_left_icon{
+    margin-top: -5vh;
+    float: left;
+    width: 45px;
+}
+.quote_progress_right_icon{
+    margin-top: -6vh;
+    float: right;
+    width: 35px;
+    /* margin-right: 5%; */
+}
+.quote_progress_left_text{
+    margin-top: -0vh;
+    float: left;
+    color: #325FFF;
+    font-weight: bolder;
+    font-size: 25px;
+    /* width: 45px; */
+}
+
+.quote_progress_left_text_final{
+    margin-top: -0vh;
+    float: right;
+    width: 35px;
+    /* margin-top: -0vh; */
+    /* float: left; */
+    color: #325FFF;
+    font-weight: bolder;
+    font-size: 25px;
+    /* width: 45px; */
+}
+
+.quoteReview{
+    width:70%;
+     margin-left:15%;
+      background-color:#D4DFFF;
+     height:50px;
+    border-radius:10px;
+    color: rgb(39, 39, 39);
+    font-size: 20px;
+    padding: 10px;
+    text-align: left;
+    margin-bottom: 10px;
+}
+.Review{
+    /* width: 100%; */
+    display: flex;
+    overflow-x: auto;
+    white-space: nowrap;
+    /* background-color: blanchedalmond; */
+}
+
+.scroll_bar{
+    width:"50%"
+}
+.scroll_bar::-webkit-scrollbar-track
+{
+    box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+	border-radius: 10px;
+	background-color: #F5F5F5;
+}
+
+.scroll_bar::-webkit-scrollbar
+{
+	width: 12px;
+	background-color: #F5F5F5;
+}
+
+.scroll_bar::-webkit-scrollbar-thumb
+{
+	border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+    box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+    
+	background-color: #325FFF;
+}

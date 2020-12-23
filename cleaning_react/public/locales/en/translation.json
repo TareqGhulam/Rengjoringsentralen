@@ -1,0 +1,34 @@
+{
+    "home":{
+        "title":"Cleaning that delights",
+        "getQuote":"Get Quote",
+        "callUs":"Call us",
+        "services":{
+            "dayCare":"Daycare cleaning",
+            "dayCareDes":"Children’s bad hygiene can spread diseases and infection to people and surfaces. Unless there’s proper disinfection and cleaning any visitors could risk taking bacteria with them. We can ensure you a disinfected and clean daycare day after day.",
+            "dayCareLong":"Since the 1940s daycares have been sources of disease outbreaks, and with the more and more children being admitted to daycare there’s an even higher risk of infection. Without proper infection control and cleaning, the children are in danger for outbreaks of diseases like Hepatitis A and other infections.",
+            "home":"Home or apartment cleaning",
+            "homeDes":"Come to a clean home where you can enjoy the sun streaming through clean windows while you do what you’ve dreamt of doing all day.",
+            "HomeLong":"Our cleaners use only the best equipment with eco-friendly and safe cleaning products. They’ll go from roof to floor to ensure no dirt is left when they’re done.Let us bother with the more challenging rooms. Just choose whichever rooms you’d like us to clean so you can make better use of your time.",
+            "office":"",
+            "officeDes":"How you take care of your building tells your customers how you’ll take care of them. Give them a good first impression to make future negotiations much easier.",
+            "construction":"Construction cleaning",
+            "constructionDes":"Avoid unexpected fines while getting praise from grateful clients. Professional cleaning during and after construction guarantee proper sorting of building materials and garbage from the construction site. Once you’re done your clients will get a spotless new building ready for use right away.",
+            "constructionLong":"Unless you’re training your employees to be cleaning personnel, you risk getting fines from bad garbage sorting and wrong clean up after you’re done building. With experienced professionals, you can expect a clean construction site for your workers and no fines in your mail.",
+            "carpet":"Carpet cleaning",
+            "carpetDes":"You can hide the dust under the carpet, but all the dirt atop will sit and fester. Send your carpet to cleaned once a year to ensure a good as new and long-lasting carpet.",
+            "carpetLong":"Carpets are like a bank of dust in your house. Daily vacuuming can only take away 80-90% of dry dirt on the upper layers But in the roots, skin cells, mites, moisture and fungal spores get trapped in the fibres. These can cause allergic reactions and asthma problems unless properly cleaned.",
+            "movein":"Move-in/out cleaning",
+            "moveinDes":"Don’t stop the moving party because someone hounds a spot you forgot, or begin the celebration as soon as you come into your new home. Whether you’re selling or moving in the cleanup is often bigger than expected. That’s why we go through every possible detail so your home shines to its full potential.",
+            "moveinLong":"The cleanup is often harder and longer than you might expect. You could start with the walls, move to the cabinets, but then suddenly the inside of the oven has to be scraped and in the end, you’ll have to go over every floor again. And finally, one last cleanup of the floor again to get the last dust away. Use that time to celebrate instead, while we make either your old, or new home shine.",
+            "airbnb":"Air BnB",
+            "airbnbDes":"Don’t use more time than necessary on bad guests. Just put out fresh towels and bed linens, then we’ll take care of the cleaning and disinfecting while you do more important things.",
+            "airbnbLong":"",
+            "infection ":"Infection control",
+            "infectionDes":"Our cleaners are certified in infection control. They prevent cross-contamination from surfaces and ensure any infectious zones stay disinfected hours after cleaning.",
+             "infectionLong":""
+        }
+    }
+    
+    
+}

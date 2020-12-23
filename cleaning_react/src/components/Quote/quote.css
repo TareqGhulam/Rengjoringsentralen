@@ -1,0 +1,9 @@
+.Image_Category{
+    border-radius: 20px;
+    /* box-sizing: border-box; */
+    padding: 10px;
+}
+.Image_Category:hover{
+    border: 10px solid rgb(255, 251, 0);
+    padding: 0px;
+}

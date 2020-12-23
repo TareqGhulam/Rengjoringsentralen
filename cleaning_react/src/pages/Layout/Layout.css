@@ -1,0 +1,21 @@
+.sidebar {
+    background-color:#eeeeee;
+    width: 260px;
+    height:100hv;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+  }
+
+  
+  .portfolio {
+    position: absolute;
+    top: 0;
+    left: 260px;
+    right: 0;
+    bottom: 0;
+    min-width: 400px;
+    -moz-transition: left 0.5s ease;
+    transition: left 0.5s ease;
+  }
